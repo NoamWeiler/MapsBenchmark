@@ -1,0 +1,5 @@
+github.com/FTChinese/go-rest v0.9.1 h1:TlpIAcgvMxUIlnYvt6dUcT08CXOI+4BRDhiKKamp6XQ=
+github.com/FTChinese/go-rest v0.9.1/go.mod h1:6nKS0fEq/bRD37FFx9QwhencQD9Cp2mJKKbTx3xqMvA=
+github.com/go-mail/mail v2.3.1+incompatible/go.mod h1:VPWjmmNyRsWXQZHVHT3g0YbIINUkSmuKOiLIDkWbL6M=
+gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc/go.mod h1:m7x9LTH6d71AHyAX77c9yqWCCa3UKHcVEj9y7hAtKDk=
+gopkg.in/mail.v2 v2.3.1/go.mod h1:htwXN1Qh09vZJ1NVKxQqHPBaCBbzKhp5GzuJEA4VJWw=
